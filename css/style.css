@@ -336,7 +336,7 @@ height: 3px;
 background-color: rgba(37, 37, 37, 0.85) ;
 bottom: -22px;
 left: 50%;
-transform: translateX(-50%);
+transform: translateX(-50%) scaleX(1);
 animation: changeWidth 2s infinite;
 }
 .menu-head h2::after{
@@ -351,9 +351,9 @@ transform: translateX(-50%) rotate(45deg);
 
 }
 @keyframes changeWidth {
-    0%{width: 130px;}
-    50%{width: 0;}
-    100%{width: 130px;}
+    0%{transform: translateX(-50%) scaleX(1);}
+    50%{transform: translateX(-50%) scaleX(0);}
+    100%{transform: translateX(-50%) scaleX(1);}
 }
 .menu-card{
     position: relative;
