@@ -179,7 +179,7 @@ body{
 /* End Header */
 /* Start Hero Section */
 #hero-section{
-background-image:url(../images/hero-section.jpg) ;
+background-image:url(../images/hero-section.webp) ;
 background-repeat: no-repeat;
 background-size: cover;
 background-position: center center;
@@ -714,7 +714,7 @@ box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 
 #reserve{
     position: relative;
     padding: 118px 0;
-    background-image:url(../images/reserve-photo.jpg) ;
+    background-image:url(../images/reserve-photo.webp) ;
     background-size: cover;
     background-repeat: no-repeat;
     /* background-position: center center; */
