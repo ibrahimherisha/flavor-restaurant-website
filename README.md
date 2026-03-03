@@ -27,3 +27,16 @@ A modern and fully responsive restaurant website built using HTML, CSS, JavaScri
 ## 👨‍💻 Author
 Developed by **Ibrahim Herisha**  
 Frontend Developer
+
+---
+
+## 📸 Preview
+
+### 🖥 Desktop View
+![Desktop](home-desktop.png)
+
+### 🍔 Menu Section
+![Menu](menu-section.png)
+
+### 📱 Mobile View
+![Mobile](mobile-view.png)
